@@ -26,13 +26,13 @@ Objectives of this program include:
 
 ## FAQ's
 
-* Who are you?
+### Who are you?
 
 I'm Nell Shamrell-Harrington, I'm a software engineer and team lead for [Chef](https://www.chef.io/).  Feel free to follow me on Twitter (@nellshamrell)[https://twitter.com/nellshamrell] or check out my website at [www.nellshamrell.com](http://nellshamrell.com/). I'm also the scholarship chair of Operation Code and a mentor.
 
 The gap between finishing a code school and getting a "real" programming job can seem quite big.  I'm doing this program as a way to help some groups of Veterans bridge that gap, or at least make bridging it a little easier, by having public open source contributions.  I have been both contributing to and running Open Source projects for a few years now and have learned a lot of lessons along the way - I'd love to share them!
 
-* What is exercism.io?
+### What is exercism.io?
 
 From the [exercism.io Github repo](https://github.com/exercism/exercism.io).  
 
@@ -42,7 +42,7 @@ There are practice exercises in 30 programming languages. Solve an exercise and 
 
 Exercism.io is both a great tool to use to practice and get better at programming and a fantastic Open Source project to contribute to.
 
-* What does this involve?
+### What does this involve?
 
 For the first four weeks we will focus on getting exercism.io setup and working through some of the exercises.  I plan to post a couple of exercises for everyone to work through by Sunday at 5 PM of each week.  Any number of people can participate in this section of the mentorship program.
 
@@ -52,7 +52,7 @@ We will hold a weekly "standup" where we decide what to work on for the next wee
 
 Once we select issues, we can work on them as individuals, in pairs, or as a group as a whole.  We will schedule pairing/group work at those meetings.  So...you are committing to one meeting a week (there will likely be times that it slips into every other week, depending on my work and travel schedule) for six weeks.  After six weeks we will re-evaluation - we may continue Exercism Team Six as it is, look to bring in new developers (I will ask experienced Exercism Team Six devs to help mentor those new developers), or something else entirely.  Let's try this MVP (minimal viable product), then see where we are after kicking the tires and trying it out for a bit.
 
-* Why only 5 devs for Exercism Team Six?
+### Why only 5 devs for Exercism Team Six?
 
 5 is the absolute maximum I can mentor at one time.  Once those five are trained up and able to mentor others, I will be open to bringing more devs in.
 
