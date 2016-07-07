@@ -28,7 +28,7 @@ Objectives of this program include:
 
 ### Who are you?
 
-I'm Nell Shamrell-Harrington, I'm a software engineer and team lead for [Chef](https://www.chef.io/).  Feel free to follow me on Twitter (@nellshamrell)[https://twitter.com/nellshamrell] or check out my website at [www.nellshamrell.com](http://nellshamrell.com/). I'm also the scholarship chair of Operation Code and a mentor.
+I'm Nell Shamrell-Harrington, I'm a software engineer and team lead for (Chef)[https://www.chef.io/].  Feel free to follow me on Twitter (@nellshamrell)[https://twitter.com/nellshamrell] or check out my website at [www.nellshamrell.com](http://nellshamrell.com/). I'm also the scholarship chair of Operation Code and a mentor.
 
 The gap between finishing a code school and getting a "real" programming job can seem quite big.  I'm doing this program as a way to help some groups of Veterans bridge that gap, or at least make bridging it a little easier, by having public open source contributions.  I have been both contributing to and running Open Source projects for a few years now and have learned a lot of lessons along the way - I'd love to share them!
 
@@ -56,4 +56,4 @@ Once we select issues, we can work on them as individuals, in pairs, or as a gro
 
 5 is the absolute maximum I can mentor at one time.  Once those five are trained up and able to mentor others, I will be open to bringing more devs in.
 
-Any other questions?  Feel free to DM me in the Operation Code slack :)
+Any other questions?  Feel free to DM me in the Operation Code slack @nellshamrell.
