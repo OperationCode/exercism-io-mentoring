@@ -2,25 +2,25 @@ Agendo for the 08-27-15 Kickoff Meeting
 
 # Intros
 
-## Name
+1. Name
 
-## Branch of Service
+2. Branch of Service
 
-## What brought you to Operation Code?
+3. What brought you to Operation Code?
 
-## What do you hope to get out of this mentorship?
+4. What do you hope to get out of this mentorship?
 
 # Tech Questions
 
-## What kind of workstation do you have?  (Mac, Windows, Linux?)
+1. What kind of workstation do you have?  (Mac, Windows, Linux?)
 
-## Have you worked with git and github before? (No worries if not!)
+2. Have you worked with git and github before? (No worries if not!)
 
-## Have you worked with open source before?
+3. Have you worked with open source before?
 
-## Have you worked with exercism before?  (Doing exercises counts!)
+4. Have you worked with exercism before?  (Doing exercises counts!)
 
-## What programming languages do you have experience with? (Online tutorials count!)
+5. What programming languages do you have experience with? (Online tutorials count!)
 
 # Team Charter
 
@@ -39,13 +39,13 @@ NOTE: If something comes up and you don't think you can complete your issue (esp
 # Action items
 
 During this Meeting:
-1) Set date of our sprint planning meeting
-2) Create Trello board for Exercism Team Six
-3) Invite everyone with a Github account to the operation
+1. Set date of our sprint planning meeting
+2. Create Trello board for Exercism Team Six
+3. Invite everyone with a Github account to the operation
 
 After this Meeting:
-1) If you do not have a Github account, go ahead and create one (Everyone)
-2) If you do not have a Trello account, go ahead and create one (Everyone)
-3) Select some Exercism.io issues which would be appropriate for us to start with, consult with Katrina Owen as necessary, add to Trello board (Nell)
-4) For now, if you see an issue on the Trello board (or in the Exercism.io Github issues), feel free to start work on it if you would like to!  We'll do more formal sprint planning starting with the next sprint planning meeting.
-5) At anytime, feel free to reach out on #exercism-io channel in the Operation Code Slack for assistance, collaboration, or just to chat :)
+1. If you do not have a Github account, go ahead and create one (Everyone)
+2. If you do not have a Trello account, go ahead and create one (Everyone)
+3. Select some Exercism.io issues which would be appropriate for us to start with, consult with Katrina Owen as necessary, add to Trello board (Nell)
+4. For now, if you see an issue on the Trello board (or in the Exercism.io Github issues), feel free to start work on it if you would like to!  We'll do more formal sprint planning starting with the next sprint planning meeting.
+5. At anytime, feel free to reach out on #exercism-io channel in the Operation Code Slack for assistance, collaboration, or just to chat :)
