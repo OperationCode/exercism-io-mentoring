@@ -1,4 +1,4 @@
-# exercism-io
+# exercism-io-mentoring
 For working through a 10 week mentoring program centered around open source work on http://exercism.io/
 
 ## Operation Code/Exercism IO Open Source Mentoring Program
@@ -11,7 +11,7 @@ This mentorship program involves getting to know an established open source proj
 
 Objectives of this program include:
 
-* Gaining experience in triaging Open Source bugs and small feature requests 
+* Gaining experience in triaging Open Source bugs and small feature requests
 * Gain experience in tracking down and fixing bugs in code bases
 * Learn skills like sprint planning and code review (and some pair or group programming)
 * Gain an understanding of the culture and ettiquette of Open Source.
@@ -34,7 +34,7 @@ The gap between finishing a code school and getting a "real" programming job can
 
 ### What is exercism.io?
 
-From the [exercism.io Github repo](https://github.com/exercism/exercism.io).  
+From the [exercism.io Github repo](https://github.com/exercism/exercism.io).
 
 "Exercism is a place where programmers help each other level up their coding skills.
 
@@ -46,9 +46,9 @@ Exercism.io is both a great tool to use to practice and get better at programmin
 
 For the first four weeks we will focus on getting exercism.io setup and working through some of the exercises.  I plan to post a couple of exercises for everyone to work through by Sunday at 5 PM of each week.  Any number of people can participate in this section of the mentorship program.
 
-After the first phase, I will be looking to form a group of 5 developers into what I am calling "Exercism Team Six" - we will focus on contributing to the backend (and possibly front end as well) of Exercism.io - working through bug reports, small feature requests, etc.  We will spend at least 6 weeks doing this, and afterwards the team is most welcome to continue!  
+After the first phase, I will be looking to form a group of 5 developers into what I am calling "Exercism Team Six" - we will focus on contributing to the backend (and possibly front end as well) of Exercism.io - working through bug reports, small feature requests, etc.  We will spend at least 6 weeks doing this, and afterwards the team is most welcome to continue!
 
-We will hold a weekly "standup" where we decide what to work on for the next week.  When we have completed work before, we will also do a code review of that work at that meeting.  
+We will hold a weekly "standup" where we decide what to work on for the next week.  When we have completed work before, we will also do a code review of that work at that meeting.
 
 Once we select issues, we can work on them as individuals, in pairs, or as a group as a whole.  We will schedule pairing/group work at those meetings.  So...you are committing to one meeting a week (there will likely be times that it slips into every other week, depending on my work and travel schedule) for six weeks.  After six weeks we will re-evaluation - we may continue Exercism Team Six as it is, look to bring in new developers (I will ask experienced Exercism Team Six devs to help mentor those new developers), or something else entirely.  Let's try this MVP (minimal viable product), then see where we are after kicking the tires and trying it out for a bit.
 
