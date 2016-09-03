@@ -20,6 +20,9 @@ Hello!  The Open Source software we will be working with involves a few core tec
 * [Github Guides](https://guides.github.com/)
 * [Github Issues - A Quick Look](https://www.youtube.com/watch?v=TJlYiMp8FuY)
 
+# Github Markdown
+* [GithHub Markdown Guide](https://guides.github.com/features/mastering-markdown)
+
 # Exercism.io
 
 ## Using Exercism.io
