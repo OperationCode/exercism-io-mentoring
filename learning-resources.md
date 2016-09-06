@@ -22,6 +22,7 @@ Hello!  The Open Source software we will be working with involves a few core tec
 
 # Github Markdown
 * [GithHub Markdown Guide](https://guides.github.com/features/mastering-markdown)
+* [Markdown Cheat Sheet](http://packetlife.net/media/library/16/Markdown.pdf)
 
 # Exercism.io
 
