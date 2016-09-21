@@ -1,4 +1,4 @@
-Only do this after completing [workstation.md].
+Only do this after completing [workstation.md](workstation.md).
 
 # Intro
 
