@@ -130,7 +130,11 @@ Now, we will run a script to automatically setup the application with default se
 
 This will do a lot of stuff - including installing the needed gems, creating the development data base, create the test database, and run the test suite.
 
-For now, ignore the message "sh: lineman: command not found" that appears at the end of the run.
+You will see the message "sh: lineman: command not found" that appears at the end of the run.  Let's go ahead and install that.
+
+```
+  $ npm install -g lineman
+```
 
 ## Running the Application
 
