@@ -164,7 +164,7 @@ More information on verifying checksums can be found at https://help.ubuntu.com/
 ### Installation Procedures
 Once you've verified the checksum of the iso, burn it to a disc and put it into the computer you want to install ubuntu on. You need to configure your computer to boot from the disc.
 
-Warning: When you install Ubuntu using these procedures, it will completely erase your current OS and all files. If you simply want to try Ubuntu, it is recommended you install to a virtual machine instead. Some helpful instructions can be found here http://www.psychocats.net/ubuntu/virtualbox
+*Warning:* When you install Ubuntu using these procedures, it will completely erase your current OS and all files. If you simply want to try Ubuntu, it is recommended you install to a virtual machine instead. Some helpful instructions can be found here http://www.psychocats.net/ubuntu/virtualbox
 Note that you may need to "Enable Virtualization" in your bios. More on that here: https://forums.virtualbox.org/viewtopic.php?f=1&t=62339
 
 Once it loads, click "Install Ubuntu"
@@ -234,17 +234,14 @@ rvm --default use 2.2.2
 
 ## Installing Node
 ```bash
-curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
 ## Installing and setting up PostgreSQL
+We'll need to leave Postgres running in the background to run the app locally. Open up a new terminal window (Ctrl-Alt-T)
 ```bash
-sudo apt-get install postgresql postgresql-contrib
-```
-The setup script also requires another related package, so let's install that now
-```bash
-sudo apt-get install libpq-dev
+sudo apt-get install postgresql postgresql-contrib libpq-dev
 ```
 You need to set yourself up as a postgres user. Do so with this command:
 ```bash
@@ -281,7 +278,7 @@ and either change the password to whatever secure password you prefer, or note w
 
 This will prompt you to type in a password. Set the password to match the database.yml file's password.
 
-We need to leave postgres running in the background, so open a new terminal window to continue set up.
+We need to leave postgres running in the background, so return to your other terminal window (or open a new one) to continue set up.
 
 When you are finished running the application, you can close out of postgresql with `\q`.
 
@@ -291,11 +288,14 @@ Ensure you are in ~/exercism.io
 ```bash
 cd ~/exercism.io
 ```
-Now run the setup script:
+Install the Lineman package from Node
+```bash
+npm install -g lineman
+```
+Now run the setup script. This will ask for your user password, as well as the database password. If you followed the instructions for setting up Postgres above, these should be the same. Check exercism.io/config/database.yml for the database password. 
 ```bash
 bin/setup
 ```
-Setup will complain that lineman is not found. This is ok for now.
 
 ## Running the Application
 Now, let's run the application
