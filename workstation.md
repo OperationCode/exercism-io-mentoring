@@ -2,6 +2,9 @@ Welcome to Exercism Team Six!
 
 Let's set up your workstation so you can get contributing :)
 
+* [Mac OS X setup](workstation.md#mac-os-x)
+* [Linux setup (Ubuntu)](workstation.md#linux)
+* [Windows setup](workstation.md#windows)
 
 # Mac OS X
 
