@@ -1,7 +1,8 @@
 # Creating a Team
 To create a team in Exercism, navigate to your <a href="http://exercism.io/account">Account settings page</a>.
 
-Scroll down to the Teams section and click "Create a new team". 
+Scroll down to the Teams section and click "Create a new team".
+
 1. Choose whether your team should be public.
 2. Enter the <a href="https://en.wikipedia.org/wiki/Semantic_URL#Slug">URL slug</a> you would like for your team.
 3. Enter your Team name.
@@ -14,6 +15,7 @@ By becoming members of the same team, you can view all the submissions of your f
 
 # Managing Your Team
 If you are a manager of the team, you can perform the following functions by clicking on the Manage tab:
+
 1. Change whether the team is public.
 2. Change the URL slug.
 3. Edit the team name.
